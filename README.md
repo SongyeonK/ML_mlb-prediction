@@ -3,6 +3,21 @@
 메이저리그(MLB) 팀의 주요 타격 및 방어 지표를 활용하여 팀 승률을 예측하는 프로젝트. 선형 회귀 분석(Linear Regression)을 이용해 각 변수와 팀 승률 간의 관계를 탐구함.
 
 ---
+## Project Period
+2024.03.02 ~ 2024.03.29
+
+---
+## Project Structure
+- `src/`: Python 코드 파일
+  - `data_preprocessing.py`: 데이터 로드 및 전처리
+  - `eda.py`: 데이터 탐색 및 시각화
+  - `modeling.py`: 모델 학습 및 예측
+  - `evaluation.py`: 모델 평가
+  - `main.py`: 전체 파이프라인 실행
+- `notebooks/`: Jupyter Notebook
+- `data/`: 데이터 파일 저장
+---
+
 
 ## 1. 연구 배경
 ### 야구와 승률 예측을 주제로 선택한 이유
