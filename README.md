@@ -81,12 +81,18 @@
 ---
 
 ## 6. 결과
+![image](https://github.com/user-attachments/assets/a7094a49-1bce-4d06-b00e-7619bb24dd45)
+
+![image](https://github.com/user-attachments/assets/489feb04-3616-4687-9273-88d326aae791)
+
 ### 회귀 계수
 - 가장 영향력이 큰 변수:
   - **ERA**: 투수의 평균자책점이 낮을수록 팀 승률 상승.
   - **OPS**: 출루율과 장타율이 높은 팀일수록 승률 상승.
 
 ### 모델 성능
+![image](https://github.com/user-attachments/assets/34e2ecb2-7148-4b1a-83e5-2379adc28c44)
+
 - **R-squared**:
   - 학습 데이터: 0.854
   - 테스트 데이터: 0.795
